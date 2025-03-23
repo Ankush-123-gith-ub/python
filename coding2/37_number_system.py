@@ -1,0 +1,5 @@
+n= int(input())
+print(n)
+print(format(n,'o'))
+print(format(n,'x'))
+print(format(n,'X'))

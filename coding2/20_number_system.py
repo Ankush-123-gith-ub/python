@@ -1,0 +1,7 @@
+n = int(input())
+print(n)
+print(oct(n))
+print(format(n,'o'))
+print(hex(n))
+print(format(n,'x'))
+print(format(n,'X'))
